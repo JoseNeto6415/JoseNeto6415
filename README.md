@@ -1,7 +1,7 @@
 # ⚡ José Neto | Aprendiz de Programador
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&pause=1000&color=710193&center=true&vCenter=true&width=600&height=80&lines=SUDOXS;SYSTEM+COMPROMISED;ROOT+ACCESS+GRANTED" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&pause=1000&color=710193&center=true&vCenter=true&width=600&height=80&lines=JOSENETO;SYSTEM+COMPROMISED;ROOT+ACCESS+GRANTED" />
 </p>
 
 <p align="center">
