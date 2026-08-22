@@ -20,7 +20,7 @@
 ### 🧬 NEURAL INTERFACE (TECH STACK)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,powershell,bash,linux,raspberrypi,docker,git,vscode,html,css&perline=6" />
+    <img src="https://skillicons.dev/icons?i=linux,js,java,vscode,html,css&perline=6" />
   </a>
 </p>
 
