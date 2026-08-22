@@ -23,29 +23,3 @@
     <img src="https://skillicons.dev/icons?i=linux,vscode,html,css,js,java&perline=6" />
   </a>
 </p>
-
----
-
-### 📡 SYSTEM ANALYSIS
-*(Real-time Operator Activity)*
-
-<p align="center">
-  <a href="https://github.com/sudoxs">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudoxs&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-### 📂 DATABASE CLASSIFIED (PROJECTS)
-* ☣️ **Custom Malware & Tooling:** High-performance Go binaries.
-* 📜 **Field Notes:** Detailed OSCP+ & OSEP preparation logs.
-* ⚡ **Legacy Scripts:** Automated reconnaissance in Python & PowerShell.
-* 🛠️ **Hardware:** Physical access tools via Raspberry Pi.
-
----
-
-### 🌐 ENCRYPTED CONNECTION
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudoxs&label=ACCESS%20GRANTED&color=710193&style=for-the-badge" />
-</p>
