@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initial+Access+Specialist;Golang+Exploit+Developer;OSCP%2B++In+Progress...;Welcome+to+my+Neural+Network" />
 </p>
 
-## 🛡️ MISSION: OFFENSIVE OPERATIONS
+## 🛡️ MISSION: LEARNING PROGRAMMER DEVELOP
 <p align="left">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-green?style=for-the-badge&logo=hackthebox" />
   <img src="https://img.shields.io/badge/LEVEL-GRINDING%20OSCP%2B-purple?style=for-the-badge&logo=kali-linux" />
