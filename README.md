@@ -11,7 +11,7 @@
 ## 🛡️ MISSION: LEARNING PROGRAMMER DEVELOP
 <p align="left">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-green?style=for-the-badge&logo=hackthebox" />
-  <img src="https://shields.io/LEVEL-BEGINNER-purple?style=for-the-badge&logo=accenture" />
+  <img src="https://img.shields.io/badge/LEVEL-BEGINNER-purple?style=for-the-badge&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/badge/GO-OFFENSIVE-blue?style=for-the-badge&logo=go" />
 </p>
 
