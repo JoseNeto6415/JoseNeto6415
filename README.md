@@ -11,7 +11,7 @@
 ## 🛡️ MISSION: LEARNING PROGRAMMER DEVELOP
 <p align="left">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-green?style=for-the-badge&logo=hackthebox" />
-  <img src="https://img.shields.io/badge/LEVEL-BEGINNER%20OSCP%2B-purple?style=for-the-badge&logo=kali-linux" />
+  <img src="https://img.shields.io/badge/LEVEL-BEGINNER-purple?style=for-the-badge&logo=kali-linux" />
   <img src="https://img.shields.io/badge/GO-OFFENSIVE-blue?style=for-the-badge&logo=go" />
 </p>
 
