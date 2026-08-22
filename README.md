@@ -1,16 +1,51 @@
-## Hi there 👋
+# ⚡ José Neto | Aprendiz de Programador
 
-<!--
-**JoseNeto6415/JoseNeto6415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&pause=1000&color=710193&center=true&vCenter=true&width=600&height=80&lines=SUDOXS;SYSTEM+COMPROMISED;ROOT+ACCESS+GRANTED" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initial+Access+Specialist;Golang+Exploit+Developer;OSCP%2B++In+Progress...;Welcome+to+my+Neural+Network" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ MISSION: OFFENSIVE OPERATIONS
+<p align="left">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-green?style=for-the-badge&logo=hackthebox" />
+  <img src="https://img.shields.io/badge/LEVEL-GRINDING%20OSCP%2B-purple?style=for-the-badge&logo=kali-linux" />
+  <img src="https://img.shields.io/badge/GO-OFFENSIVE-blue?style=for-the-badge&logo=go" />
+</p>
+
+---
+
+### 🧬 NEURAL INTERFACE (TECH STACK)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,py,powershell,bash,linux,raspberrypi,docker,git,vscode,html,css&perline=6" />
+  </a>
+</p>
+
+---
+
+### 📡 SYSTEM ANALYSIS
+*(Real-time Operator Activity)*
+
+<p align="center">
+  <a href="https://github.com/sudoxs">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudoxs&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 📂 DATABASE CLASSIFIED (PROJECTS)
+* ☣️ **Custom Malware & Tooling:** High-performance Go binaries.
+* 📜 **Field Notes:** Detailed OSCP+ & OSEP preparation logs.
+* ⚡ **Legacy Scripts:** Automated reconnaissance in Python & PowerShell.
+* 🛠️ **Hardware:** Physical access tools via Raspberry Pi.
+
+---
+
+### 🌐 ENCRYPTED CONNECTION
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudoxs&label=ACCESS%20GRANTED&color=710193&style=for-the-badge" />
+</p>
